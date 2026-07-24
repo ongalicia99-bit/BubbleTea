@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Tea Business Model Canvas & Financial Simulator",
+  "description": "Interactive Business Model Canvas, unit economics calculator, strategy roadmap, and financial projection tool for the bubble tea business model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
